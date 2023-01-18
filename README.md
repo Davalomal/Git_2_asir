@@ -1,5 +1,7 @@
 1:git clone git@github.com:Davalomal/Git_2_asir.git
+
 2:git add README.md
+
 3:git commit -m "Commit inicial"
 4:git push
 5:touch privado.txt
@@ -12,3 +14,9 @@
 12:git add README.d
 13:git commit -m "Actualización de README"
 14:git push
+15:git tag
+16:git tag v0.1
+17:git tag
+18:git push --tags
+
+
