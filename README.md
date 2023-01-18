@@ -54,4 +54,16 @@
 
 25:git push
 
-26:
+26:git branch v0.2
+
+27:git checkout v0.2
+
+28:touch 2.txt
+
+29:git add 2.txt
+
+30:git commit -m "Subida de fichero 2.txt"
+
+31:git push --set-upstream origin v0.2
+
+32: git push
