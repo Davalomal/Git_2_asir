@@ -79,6 +79,42 @@
 
 38:nano 1.txt
 
-39:git checkout v0.2
+39:git commit -m "Subida fichero 1.txt"
 
-40:nano 1.txt
+40:git push
+
+41:git checkout v0.2
+
+42:nano 1.txt
+
+43:git commit -m "Subida fichero 2.txt"
+
+44:git push
+
+45:git checkout master
+
+46:nano README.md
+
+47:git add README.md
+
+48:git commit -m "Subida Actualización de README"
+
+49:git push
+
+50:git branch
+
+51:git merge v0.2
+
+52:nano 1.txt
+
+53:git add 1.txt
+
+54:git commit -m "Subida correcta de 1.txt"
+
+55:nano README.md
+
+56:git add README.md
+
+57:git commit -m "Actualización de README"
+
+58:git push
