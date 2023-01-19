@@ -41,12 +41,10 @@
 21:git push
 
 22:Crear una tabla:
-
 | NOMBRE | GITHUB |
-| ------ | ------ |
-| Nacho  | [Enlace a Github](https://github.com/jrodrob861/git_2_asir) |
-| Adri   | [Enlace a Github](https://github.com/areyjim770/git_2_asir) |
-| Mario  | [Enlace a Github](https://github.com/Mromvar767/git_2_asir) |
+| Nacho | [Enlace a Github](https://github.com/jrodrob861/git_2_asir) |
+| Adri  | [Enlace a Github](https://github.com/areyjim770/git_2_asir) |
+| Mario | [Enlace a Github](https://github.com/Mromvar767) |
 
 23:git add README.md
 
@@ -73,3 +71,7 @@
 34:git commit -m "Actualización de README"
 
 35:git push
+
+36:git checkout master
+
+37:git merge v0.2
