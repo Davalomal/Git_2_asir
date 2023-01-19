@@ -42,6 +42,7 @@
 
 22:Crear una tabla:
 | NOMBRE | GITHUB |
+| ------ | ------ |
 | Nacho | [Enlace a Github](https://github.com/jrodrob861/git_2_asir) |
 | Adri  | [Enlace a Github](https://github.com/areyjim770/git_2_asir) |
 | Mario | [Enlace a Github](https://github.com/Mromvar767) |
