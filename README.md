@@ -66,4 +66,10 @@
 
 31:git push --set-upstream origin v0.2
 
-32: git push
+32:git push
+
+33:git add README.md
+
+34:git commit -m "Actualización de README"
+
+35:git push
