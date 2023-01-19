@@ -76,3 +76,9 @@
 36:git checkout master
 
 37:git merge v0.2
+
+38:nano 1.txt
+
+39:git checkout v0.2
+
+40:nano 1.txt
