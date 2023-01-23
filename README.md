@@ -118,3 +118,77 @@
 57:git commit -m "Actualización de README"
 
 58:git push
+
+59:git tag v0.2
+
+60:git tag
+
+61:git push --tags
+
+62:git branch -d v0.2
+
+63:git log
+
+64:git branch
+
+65:nano equipo.md
+
+66:git add equipo.md
+
+67:git commit -m "Subida fichero equipo.md"
+
+68:git push
+
+69:git clone git@github.com:Davalomal/git_2_asir-1.git
+
+70:git branch davalomal
+
+71:git checkout davalomal
+
+72:nano README.md
+
+73:git clone git@github.com:Davalomal/git_2_asir-1.git
+
+74:git branch davalomal
+
+75:git checkout davalomal
+
+76:ls
+
+77:nano README.md
+
+78:git add README.md
+
+79:git commit -m "Subida fichero README.md"
+
+80:git push
+
+81:git push --set-upstream origin davalomal
+
+82:git clone git@github.com:Davalomal/git_2_asir-2.git
+
+83:git branch davalomal2
+
+84:git checkout davalomal2
+
+85:nano README.md
+
+86:git add README.md
+
+87:git commit -m "Actualización fichero Readme.md"
+
+88:git push
+
+89:git push --set-upstream origin davalomal2
+
+90:git checkout master 
+
+91:cd ..
+
+92:nano README.md
+
+93:git add README.md
+
+94:git commit -m "Actualización final README.md"
+
+95:git push
